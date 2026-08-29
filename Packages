@@ -264,6 +264,22 @@ Description: Customize your Control Center!_________仅测试用,有问题卸载
 Author: Miguelaka95 <miguelaka95@gmail.com>
 Name: BetterCC-roothide
 
+Package: com.netskao.disablebottombarlrswipe.roothide
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets <xuanhua880@gmail.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/com.netskao.disablebottombarlrswipe.roothide_1.1-2_747267_iphoneos-arm64e.deb
+Size: 19972
+MD5sum: 095902647195c1a83fdf95b8178176f3
+SHA1: bcfe4d10546961092a06f3a951047810ec3fb799
+SHA256: 2d6878d5270d8e56afee8979f119af02b0fabf40e3f5292ad052b44b2e36f850
+Section: Tweaks
+Description: Disable bottom bar left/right swipe 禁用底部栏左/右轻扫
+Author: Netskao <xuanhua880@gmail.com>
+Name: 禁用底部栏左右滑动
+
 Package: com.nightwind.boldersreborn
 Version: 1.2.0
 Architecture: iphoneos-arm64e
