@@ -166,6 +166,22 @@ Description: 真正的iOS系统清理和管理实用程序，默认简体中文�
 Author: Ivano Bilenchi
 Name: iCleaner Pro(rootless)
 
+Package: com.dao.saily
+Version: 3.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Saily Team
+Pre-Depends: firmware (>= 13.0), dpkg, uikittools
+Conflicts: wiki.qaq.chromatic, wiki.qaq.chromatic.roothide, wiki.qaq.chromatic.rootless
+Filename: debs/Saily(RootHide)_3.0.1_iphoneos-arm64e.deb
+Size: 3401420
+MD5sum: b74d6da4899fffd61339008ef8f801aa
+SHA1: 7403ced167410c169bf003ad34df3df4762c2d4b
+SHA256: 6e0b940ac07c6070dd6f395483fec39da90fe295e78e4f9f39f1b55521a21813
+Section: 嗨-系统
+Description: 现代化、美观、简洁的越狱软件包管理器！
+Author: Saily Team
+Name: Saily(RootHide)
+
 Package: com.fouadraheb.appdata
 Version: 1.3.6
 Architecture: iphoneos-arm64e
@@ -263,6 +279,26 @@ Description: Customize your Control Center!_________仅测试用,有问题卸载
  Weather Widget.
 Author: Miguelaka95 <miguelaka95@gmail.com>
 Name: BetterCC-roothide
+
+Package: com.mlgm.kayoko
+Version: 4.8.1
+Architecture: iphoneos-arm64e
+Maintainer: mlgm
+Installed-Size: 3220
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Replaces: codes.aurora.kayoko, dev.traurige.kayoko, com.82flex.kayoko, com.skypain.kayoko, com.dao.kayoko, xyz.cypwn.kayoko
+Filename: debs/com.mlgm.kayoko-4.8.1-roothide_iphoneos-arm64e.deb
+Size: 684648
+MD5sum: eff36f2d40a036f4d2afaa8bac4b5c4d
+SHA1: b106fbb1e8b6b9603f0e9d4a1d1c7a6c588450c9
+SHA256: 8941782408e8d15337b039a5fcb3b748ef36f1e7da45c2fcfd76d1f7ccac728b
+Section: Tweaks
+Description: 功能丰富的剪切板管理器，基于 Kayoko (乌龙版本) 进行修改
+Author: mlgm
+Icon: https://mlgm66.github.io/icon/kayoko.png
+Name: Kayoko 剪切板
+Sileodepiction: https://mlgm66.github.io/depictions/com.mlgm.kayoko/depiction.json
 
 Package: com.netskao.disablebottombarlrswipe.roothide
 Version: 1.1-2
