@@ -1,7 +1,8 @@
-Origin: My‑RootHide‑Repo
-Label: My‑RootHide‑Repo
+Origin: MyRepo
+Label: MyRepo
 Suite: stable
 Codename: stable
+Version: 1.0
 Architectures: iphoneos‑arm64
 Components: main
-Description: Self RootHide tweak repo
+Description: My custom rootless repo
