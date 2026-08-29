@@ -407,7 +407,7 @@ Architecture: iphoneos-arm64e
 Maintainer: Sniper_GER <sniperger@festival.tf>
 Installed-Size: 1092
 Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
-Filename: debs/Re:Scale 2_1.0.5-1_iphoneos-arm64e.deb
+Filename: debs/Re-Scale 2_1.0.5-1_iphoneos-arm64e.deb
 Size: 144404
 MD5sum: f147f364069141bda40cf1e5a3941204
 SHA1: 59abdee8600f92b013815f3ce8ec347889bbe7b1
