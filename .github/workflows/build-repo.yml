@@ -1,1 +1,31 @@
+name: Build APT Repo
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'debs/**'
+  workflow_dispatch:
 
+jobs:
+  repo:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: install dpkg‑dev
+        run: sudo apt update && sudo apt install -y dpkg-dev
+
+      - name: generate Packages for arm64e
+        run: |
+          dpkg-scanpackages -a iphoneos-arm64e debs /dev/null > Packages
+          gzip -k -f Packages
+
+      - name: commit & push index files
+        run: |
+          git config --global user.name "github‑actions"
+          git config --global user.email "actions@github.com"
+          git add Packages Packages.gz
+          git commit -m "auto update apt index" || true
+          git push
