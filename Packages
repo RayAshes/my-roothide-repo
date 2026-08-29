@@ -1,0 +1,419 @@
+Package: byg.iosios.net.albummanager
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 690
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy, com.opa334.ccsupport
+Filename: debs/AlbumManager相册管理器-Rootless_1.0.2_iphoneos-arm64e.deb
+Size: 58516
+MD5sum: 3f8b5d81971368c7f8595b6f54391dc3
+SHA1: afae64f051956d229d595577648a78bf0be0cb40
+SHA256: de68cc0c16b8869fb308c1fbf2ef0e012614e383628dc0352502d24f5038c513
+Section: 系统增强
+Description: 相册保护管理！加密相册！由大神免费开源，搬运工源汉化分享！搬运工源，搬你所想！
+Author: NoisyFlake
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: AlbumManager相册管理器-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.autofillfix
+Version: 0.1
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/Auto短信验证码自动填充-Rootless_0.1_iphoneos-arm64e.deb
+Size: 4308
+MD5sum: 4de7d164875ef5a99a8f1be2043b0e05
+SHA1: 2d3e6241f457cbffa750d27d4c4d8eb346d8e6cd
+SHA256: 489639f7fbdba72c9e35c2f0edf9aaf231cb17e505e52ac53cb4892d94f59efd
+Section: 杂七杂八
+Description: Fix for autofill not working after restarting backboard or sbreload修复越狱后，某些软件，短信验证码不自动填充问题，应该是有作用的，有需要的用户可以尝试一下，无效请缷载！
+Author: P2KDev
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Auto短信验证码自动填充-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.betterccbrightness
+Version: 1.0.2
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 304
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debs/BetterCCBrightness亮度增强-Rootless_1.0.2_iphoneos-arm64e.deb
+Size: 44996
+MD5sum: 864f238bc16ea1791d2db2ae174bfb31
+SHA1: b82f3c5d3a20e26a15d18911911d021ce45d6e9f
+SHA256: 292b4a28e0795b57d5d72cae79dbac42f7c9186ba0fd1c0a5ed3c1b49972ce5d
+Section: 杂七杂八
+Description: Add more controls to the expanded brightness CC module为控制中心亮度模块，拓展出很多功能，插件无设置项，安装注销即生效！长按控制中心亮度模块出来界面！
+Author: level3tjg
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: BetterCCBrightness亮度增强-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.horizontalsliders
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 172
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: debs/HorizontalSliders模块横向滑动_0.0.1_iphoneos-arm64e.deb
+Size: 11716
+MD5sum: 284141aa1d6a642ad8b51e2786b757e0
+SHA1: 1cc332962063729b47db23eb47d130f460f9e6a6
+SHA256: 5cd6d75561b2b2c68ee3c8382e6b4b85b110d49669d1e62eb3225661eb0abcd9
+Section: 系统增强
+Description: 使控制中心的亮度和音量滑块横过来，横向滑动，不再竖向，一款小插件，非常的不错！
+Author: Nightwind
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: HorizontalSliders模块横向滑动
+Sponsor: 搬运工
+
+Package: byg.iosios.net.lowpowerbannertips-rootless
+Version: 1.1-3
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 200
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/低电量通知横幅-Rootless_1.1-3_iphoneos-arm64e.deb
+Size: 15632
+MD5sum: daa2ac899c7773164ab8437030621b49
+SHA1: ae2fb12a30050b052f8663ff9fcb356b60a18111
+SHA256: 37a5d815e69b6594c27ce254ef8ead0104e9827f5e761b71241091d7c758a262
+Section: 系统增强
+Description: 将低电量弹窗改为横幅提示样式
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 低电量通知横幅-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.qqnotiavatar
+Version: 1.2-3
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 236
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/QQ头像-Rootless_1.2-3_iphoneos-arm64e.deb
+Size: 33632
+MD5sum: dca74868b312cf858550f638c06801a6
+SHA1: df979549aa964bafd9158a078d79726ad23d0f07
+SHA256: e7001014784b90ea1f0abce300038a6636058367a08a1f6d6c589e03bd583fc0
+Section: 杂七杂八
+Description: Display Notification Avatars for QQ App using iOS15 APIs为QQ来消息通知显示头像信息！可以说是非常的骚气，效果看截图，配合灵动岛岂不是上天！
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: QQ头像-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.resentment
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, firmware (>= 14.0), firmware (<< 16.0)
+Filename: debs/Resentment播放器美化-Rootless_1.0_iphoneos-arm64e.deb
+Size: 83400
+MD5sum: 56ba20ad27549fbc125abf19cf53077b
+SHA1: bd0737905e88ee025aa2457303e2de58233b96e4
+SHA256: b092416c388bca0f1028bd8b561de3fbe273c0314eef0a0bdc56ea680a5de0dc
+Section: 杂七杂八
+Description: Bring iOS 16 LS music player to older iOS! Cracked by CBZ又一款播放器美化插件，需要的可以下载使用！
+Author: uz.ra
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: Resentment播放器美化-Rootless
+Sponsor: 搬运工
+
+Package: byg.iosios.net.wechatnotiavatar
+Version: 1.3-1
+Architecture: iphoneos-arm64e
+Maintainer: 搬运工
+Installed-Size: 1228
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate
+Conflicts: netskao.smallbanners-rootless, netskao.smallbanners
+Filename: debs/微信头像_1.3-1_iphoneos-arm64e.deb
+Size: 244836
+MD5sum: 9bcc880fa3597354e3cfa74042372c80
+SHA1: a9ccc984d4cba8db06f69cada59e129491402ebb
+SHA256: e51b4f4c29832ec2816ad51106d2df27c9e9333c8d56d8394cd88863660a4a85
+Section: 微信插件
+Description: Display Notification Avatars for WeChat App using iOS15 APIs微信来消息通知显示好友头像，仅越狱Rootless可用！可以说是非常的骚气的！效果看截图！
+Author: Netskao
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: 微信头像
+Sponsor: 搬运工
+
+Package: com.dao.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64e
+Maintainer: Ivano Bilenchi
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner, xyz.cypwn.icleanerprocrackrootless, com.exile90.icleanerpro
+Filename: debs/iCleaner Pro(rootless)_7.10.0_iphoneos-arm64e.deb
+Size: 1107052
+MD5sum: 0529159878af338f84255cd4ed402d3c
+SHA1: f7b5d5d16da44cd4e89be3f531975544ccc10ab1
+SHA256: 39a300739df233c95091d708c199ddabf4e50faea066a7166ef7db1099ad144a
+Section: 嗨-工具
+Description: 真正的iOS系统清理和管理实用程序，默认简体中文，破解版。
+Author: Ivano Bilenchi
+Name: iCleaner Pro(rootless)
+
+Package: com.fouadraheb.appdata
+Version: 1.3.6
+Architecture: iphoneos-arm64e
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 788
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: debs/AppData_1.3.6_iphoneos-arm64e.deb
+Size: 113900
+MD5sum: 9f220cd7cf7997e4d8438912c7322531
+SHA1: 13e0f866a00490bda11d5fa2f64917d825164c57
+SHA256: 5f66ec591c5a8d14b12fe65fd91b34771f0c2fbec618843a1fa6c888a43816cc
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata
+Name: AppData
+Sileodepiction: https://apt.fouadraheb.com/package/com.fouadraheb.appdata/sileo
+
+Package: com.ichitaso.iconorder
+Version: 1.0.4
+Architecture: iphoneos-arm64e
+Maintainer: Havoc
+Installed-Size: 168
+Pre-Depends: firmware (>= 12.0)
+Depends: mobilesubstrate
+Conflicts: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Replaces: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Provides: me.nepeta.iconstate, com.chpwn.iconsupport, com.muirey03.iconsupportfix, com.ryannair05.gridiculousfix, com.ichitaso.iconanus
+Filename: debs/IconOrder_1.0.4_iphoneos-arm64e.deb
+Size: 6976
+MD5sum: b518838801a5b75dd57f8678ad9e4911
+SHA1: 7db8fbb86fcbc3de4c562ddd28a8c45cac04593a
+SHA256: 2c3326b8b316c8f25a38b1d664535a0a81cd42bc326cd83624e8a943cbbfd316
+Section: Tweaks
+Homepage: https://ichitaso.com/
+Description: Preserve custom icon layouts by Springboard Crash or reboots etc
+Tag: purpose::extension, compatible_min::ios12.0, compatible_max::ios18.2
+Author: ichitaso
+Depiction: https://cydia.ichitaso.com/depiction/iconorder.html
+Dev: ichitaso
+Name: IconOrder
+Sileodepiction: https://cydia.ichitaso.com/depiction/iconorder.json
+
+Package: com.imkpatil.homebarsizer
+Version: 1.2
+Architecture: iphoneos-arm64e
+Maintainer: 灰灰
+Installed-Size: 160
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: debs/com.imkpatil.homebarsizer_1.2_iphoneos-arm64e.deb
+Size: 9324
+MD5sum: 0e3f9460eb587f78d467cf1f25bf344f
+SHA1: 85e38debc16b98b3dc092a67cfd99b767a29f02d
+SHA256: e27be09c14e38d241fbf7466a27a81b9276fcf99b63d4821f15e20e6c5ea5e54
+Section: Tweaks
+Description: 调节 iOS 底部 HomeBar 的宽度、高度和圆角。iOS 15+ roothide 适配版，设置即时生效。
+Tag: supports::roothide
+Author: 灰灰
+Icon: file:///Library/Application Support/HomeBarSizer/icon.png
+Name: HomeBarSizer
+
+Package: com.lclrc.squidgesture
+Version: 1.3.7
+Architecture: iphoneos-arm64e
+Maintainer: lclrc(SquidForce)
+Installed-Size: 1512
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0), com.opa334.altlist
+Filename: debs/SquidGesture_1.3.7_iphoneos-arm64e.deb
+Size: 382336
+MD5sum: b351646d0f4366e97cc28e0f0c4b1ffd
+SHA1: f3f7967c763652dcad4605d74a853f699953857e
+SHA256: f7c64b29a428ee4e90d2cb1391fd6866909ef2fa636636858f47cdf4da8a620a
+Section: Tweaks
+Description: Gestures
+Author: lclrc(SquidForce)
+Icon: file:///Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
+Name: SquidGesture
+
+Package: com.miguelaka95.bettercc
+Version: 0.0.51
+Architecture: iphoneos-arm64e
+Maintainer: 来了老弟
+Installed-Size: 1828
+Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
+Filename: debs/BetterCC-roothide_0.0.51_iphoneos-arm64e.deb
+Size: 141636
+MD5sum: 5f78feddce98c301a4221eb2f24e1a25
+SHA1: 92695f2ec453c953849560114d9892b62e1d3121
+SHA256: 4faf1a1ebd30164f7ba622d3e2930a97e79615327a22a6b1068dc2204ecde0ae
+Section: roothide修复插件
+Description: Customize your Control Center!_________仅测试用,有问题卸载---roothide
+ Invisible Modules.
+ Rearrange Connectivity Toggles.
+ Change Modules Size.
+ Weather Widget.
+Author: Miguelaka95 <miguelaka95@gmail.com>
+Name: BetterCC-roothide
+
+Package: com.nightwind.boldersreborn
+Version: 1.2.0
+Architecture: iphoneos-arm64e
+Maintainer: Nightwind <nightwinddev@gmail.com>
+Installed-Size: 5847
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.ichitaso.iconorder
+Conflicts: com.twickd.sirius24.folderplus, xyz.burritoz.thomz.folded, com.yourepo.i0s-tweak3r-betas.foldercontroller14, com.4nni3.coolfolder, com.lizynz.foldercolor, com.ginsu.4ders, com.iadam1n.statusfolder, com.lizynz.folderx.rootless, com.lizynz.folderx
+Filename: debs/Bolders Reborn_1.2.0_iphoneos-arm64e.deb
+Size: 4873272
+MD5sum: c763366c5c48af568bf6a5f0a44be86c
+SHA1: 3f1b2fd7946742daa2d4f20c04f54770b40ca7e6
+SHA256: b206442509c5e750f5340f635d3d47939d5d98153e936ace66c0966cf88e4c51
+Section: Tweaks
+Description: Bigger and bolder folders, remade!
+Tag: compatible_min::ios14.0
+Author: Nightwind <nightwinddev@gmail.com>
+Depiction: https://chariz.com/get/boldersreborn
+Icon: https://img.chariz.cloud/icon/boldersreborn/icon@3x.png
+Name: Bolders Reborn
+
+Package: com.p2kdev.nofaceidwait
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 168
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/NoFaceIDWait_1.0_iphoneos-arm64e.deb
+Size: 4340
+MD5sum: a3955bdde8114b15bed7cec14ae60647
+SHA1: 2e4905bf586561e1e7d23b51ce4c4b9c814d9d87
+SHA256: ad688b254076f3f257f42f3701d47a2535b64d26ad50858afa194fe9f3aceeba
+Section: Tweaks
+Description: Skip face id scanning and go straight to passcode!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.nofaceidwait
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.nofaceidwait/icon.png
+Name: NoFaceIDWait
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.nofaceidwait.json
+
+Package: com.p2kdev.switchconfirm
+Version: 1.1.3
+Architecture: iphoneos-arm64e
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 408
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: debs/SwitchConfirm_1.1.3_iphoneos-arm64e.deb
+Size: 32720
+MD5sum: 7e4e9e29465f0f5c71ed4bd0a05f4fe0
+SHA1: 82694667d5a9756dc7a6077ec214180ec9bcb29d
+SHA256: b3c0210063dd8f72fab035b83043b08efa53a65cd1bdf25939fb83eacc43f872
+Section: Tweaks
+Description: Confirm before switching Apps!
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.switchconfirm
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.switchconfirm/icon.png
+Name: SwitchConfirm
+Sileodepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.switchconfirm.json
+
+Package: com.qiop1379.swipeextenderx
+Version: 1.6.1~2
+Architecture: iphoneos-arm64e
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 614
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: debs/SwipeExtenderX_1.6.1~2_iphoneos-arm64e.deb
+Size: 90972
+MD5sum: ea4fbf00f7f89a89447c464147710463
+SHA1: 02a3a0da88d44483b6fb62e66de475c45df1825a
+SHA256: 7b0741e0ddf3f9c1d278ea45b3bb47969e6ead86487de0eff4c1f33eb9ce38be
+Section: Tweaks
+Description: Reinvent your keyboard with this full remake of the legendary SwipeExpander tweak, designed to work on modern iOS!
+Tag: compatible_min::ios14.0
+Author: MiRO <tweaks_support@miro92.com>
+Depiction: https://chariz.com/get/swipeextenderx
+Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
+Name: SwipeExtenderX
+
+Package: com.skypain.cclocation
+Version: 1.1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 164
+Depends: com.opa334.ccsupport
+Filename: debs/CCLocation_1.1.0-1_iphoneos-arm64e.deb
+Size: 14264
+MD5sum: 1a3a167bd42e937a1c9dea2334102011
+SHA1: a257a50e05c875ada0f9f611a494812dd4ac5f7d
+SHA256: c288815fe0625e33079f434a29c8d945cd4fc47d6ecf6ef81f51d88e9a1c7cab
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心定位开关模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=cclocation
+Icon: https://skypain.github.io/repo/src/cclocation/Icon.png
+Name: CCLocation
+Sileodepiction: https://skypain.github.io/repo/src/cclocation/config/sileo/depiction.json
+
+Package: com.skypain.ccvpn
+Version: 1.1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Mr.Zhang <mr_zhang_00@163.com>
+Installed-Size: 184
+Depends: com.opa334.ccsupport
+Filename: debs/CCVPN_1.1.1-2_iphoneos-arm64e.deb
+Size: 30592
+MD5sum: 1005c8c875e9b02faf4e1092d89c0385
+SHA1: 13a2f289d6717c38b2e3d3836a48766135aa3763
+SHA256: 82ec991913b2c1d16ab49eed9e80422f4378fc628ff48225fd0e041f5d47d683
+Section: Control Center (Modules)
+Homepage: https://skypain.github.io/repo/
+Description: 控制中心VPN便捷开关模块
+Author: Mr.Zhang <mr_zhang_00@163.com>
+Depiction: https://skypain.github.io/repo/static/view/?p=ccvpn
+Icon: https://skypain.github.io/repo/src/ccvpn/Icon.png
+Name: CCVPN
+Sileodepiction: https://skypain.github.io/repo/src/ccvpn/config/sileo/depiction.json
+
+Package: jp.akusio.backgrounderaction15
+Version: 0.1.0
+Architecture: iphoneos-arm64e
+Maintainer: @akusio_RR
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: debs/BackgrounderAction15 CCSupport_0.1.0_iphoneos-arm64e.deb
+Size: 9220
+MD5sum: e64f1ab9492730ef628d931ae786e234
+SHA1: 254af96732b6e8d9cde7ccec586812c6085ce3f1
+SHA256: af312e659ba0d0c33bd288f491719b38c86d8fda5610b4022e17ed02af2031ef
+Section: Tweaks
+Description: [iOS15]Add "Toggle Background Mode" action to ControlCenter.
+Author: @akusio_RR
+Depiction: https://akusio.github.io/descriptions/backgrounderaction15/index.html
+Name: BackgrounderAction15 CCSupport
+
+Package: tf.festival.rescale2
+Version: 1.0.5-1
+Architecture: iphoneos-arm64e
+Maintainer: Sniper_GER <sniperger@festival.tf>
+Installed-Size: 1092
+Depends: mobilesubstrate, preferenceloader, firmware (>= 9.0)
+Filename: debs/Re:Scale 2_1.0.5-1_iphoneos-arm64e.deb
+Size: 144404
+MD5sum: f147f364069141bda40cf1e5a3941204
+SHA1: 59abdee8600f92b013815f3ce8ec347889bbe7b1
+SHA256: 5af8d2c20d6c52919daa4f13246466d68424cfd7345e11f79cfac4f1988475c4
+Section: Tweaks
+Description: A modern (and safe) Upscale alternative!
+Author: Sniper_GER <sniperger@festival.ml>
+Name: Re:Scale 2
+
