@@ -418,6 +418,24 @@ Icon: https://skypain.github.io/repo/src/ccvpn/Icon.png
 Name: CCVPN
 Sileodepiction: https://skypain.github.io/repo/src/ccvpn/config/sileo/depiction.json
 
+Package: com.sugiuta.mochi15
+Version: 1.0.3
+Architecture: iphoneos-arm64e
+Maintainer: sugiuta
+Installed-Size: 612
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis
+Filename: debs/com.sugiuta.mochi15_1.0.3_iphoneos-arm64e.deb
+Size: 156320
+MD5sum: 5e66a7c1db25156f91296d86d966234d
+SHA1: 310c17cab26237522c1b5164ebab8610f98d85f3
+SHA256: 81a5ba07b3745c5b56f8070f40c87fef4a18720b1fa97b80750146dd22e5d119
+Section: Tweaks
+Description: Beautiful UI music player for iOS15.
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/mochi15.png
+Name: Mochi15
+
 Package: jp.akusio.backgrounderaction15
 Version: 0.1.0
 Architecture: iphoneos-arm64e
