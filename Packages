@@ -242,26 +242,6 @@ Author: lclrc(SquidForce)
 Icon: file:///Library/PreferenceBundles/SquidGesturePrefs.bundle/SquidGesture_icon@3x.png
 Name: SquidGesture
 
-Package: com.miguelaka95.bettercc
-Version: 0.0.51
-Architecture: iphoneos-arm64e
-Maintainer: 来了老弟
-Installed-Size: 1828
-Depends: mobilesubstrate, firmware (>= 14), ws.hbang.common (>= 1.17), com.opa334.ccsupport
-Filename: debs/BetterCC-roothide_0.0.51_iphoneos-arm64e.deb
-Size: 141636
-MD5sum: 5f78feddce98c301a4221eb2f24e1a25
-SHA1: 92695f2ec453c953849560114d9892b62e1d3121
-SHA256: 4faf1a1ebd30164f7ba622d3e2930a97e79615327a22a6b1068dc2204ecde0ae
-Section: roothide修复插件
-Description: Customize your Control Center!_________仅测试用,有问题卸载---roothide
- Invisible Modules.
- Rearrange Connectivity Toggles.
- Change Modules Size.
- Weather Widget.
-Author: Miguelaka95 <miguelaka95@gmail.com>
-Name: BetterCC-roothide
-
 Package: com.mlgm.kayoko
 Version: 4.8.1
 Architecture: iphoneos-arm64e
