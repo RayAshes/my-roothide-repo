@@ -493,6 +493,25 @@ Depiction: https://chariz.com/get/swipeextenderx
 Icon: https://img.chariz.cloud/icon/swipeextenderx/icon@3x.png
 Name: SwipeExtenderX
 
+Package: com.sini.swipeselection
+Version: 2.0
+Architecture: iphoneos-arm64e
+Maintainer: iCraze
+Installed-Size: 156
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: debs/com.sini.swipeselection_2.0_iphoneos-arm64e.deb
+Size: 18958
+MD5sum: 307ee1f219aba80199418e8fa98d6883
+SHA1: 8d7a0be257d232d24286f714277092d26399afb6
+SHA256: db40055e06676217d10eaecd21c82452a70f7c76300bf48491ca2b8d46f6bbca
+Section: Tweaks
+Description: 沿键盘滑动以移动光标并选择文本。
+Author: Kyle Howells
+Icon: https://sini921.github.io/repo/sileodepiction/icon/swipeselection.png
+Name: SwipeSelection
+Sileodepiction: https://sini921.github.io/repo/sileodepiction/swipeselection/js.json
+
 Package: com.skypain.cclocation
 Version: 1.1.0-1
 Architecture: iphoneos-arm64e
@@ -550,6 +569,24 @@ Description: Beautiful UI music player for iOS15.
 Author: sugiuta
 Icon: https://sugiuta.github.io/repo/images/mochi15.png
 Name: Mochi15
+
+Package: com.wkk.boardswipe
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: AnubisTweaks
+Installed-Size: 1036
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.wkk.boardswipe_1.0.0_iphoneos-arm64e.deb
+Size: 488900
+MD5sum: de5e25c177ca98f8bdeee6414973c221
+SHA1: 962adee31d42af77279858592a57079be917bf59
+SHA256: 35fa9a08e8b1ca3d760e5f5cb6554e5e2ddb91d1f2de27ec9c2015cb9b7f66af
+Section: Tweaks
+Description: 向下滑动以关闭键盘，向上滑动以切换键盘，已汉化。
+Author: AnubisTweaks
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/boardswipe/icon.png
+Name: BoardSwipe
 
 Package: jp.akusio.backgrounderaction15
 Version: 0.1.0
